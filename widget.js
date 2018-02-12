@@ -25,7 +25,7 @@ class NBAWidget extends React.Component {
     return React.createElement(
       'div',
       null,
-      'Best promotion for product id ',
+      'This widget is served from the web. Best promotion for product id ',
       this.props.productId,
       ' is this stuff obtained from OGW/PEGA with id ',
       React.createElement(
